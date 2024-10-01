@@ -1,5 +1,3 @@
-### For the Music Repository (`music`)
-
 # Music Career
 
 Welcome to my music career repository!
