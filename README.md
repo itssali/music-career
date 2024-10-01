@@ -1,12 +1,24 @@
 # Music Career
 
-Welcome to my music career repository!
+Welcome to the Music Career repository! This repository showcases my journey as a musician, featuring my latest tracks and projects. 
 
-This repository contains the source files for my music career page, hosted at [music.alinasser.info](https://music.alinasser.info).
+## Live Site
+You can access the live version of this page at: [music.alinasser.info](https://music.alinasser.info)
+
+## Description
+This site includes information about my music career, including:
+- Latest releases
+- Music projects
+- Collaborations
+
+## Technologies Used
+- HTML
+- CSS
 
 ## Getting Started
-
-To get started with this music career page, you can clone this repository to your local machine:
+To view the site locally, clone the repository and open the `index.html` file in your web browser.
 
 ```bash
-git clone https://github.com/yourusername/music.git
+git clone https://github.com/itssali/music-career.git
+cd music-career
+open index.html
