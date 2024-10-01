@@ -1,6 +1,5 @@
 ### For the Music Repository (`music`)
 
-```markdown
 # Music Career
 
 Welcome to my music career repository!
